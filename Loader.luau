@@ -1,4 +1,4 @@
---[[ This file was protected using LuaFlux Obfuscator v1.5 [https://luaflux.lol/]
+--[[ This file was protected using LuaFlux Obfuscator v1.5 [https://luaflux.lol/] 
 
                                           ██████
                                     ██████████████████
